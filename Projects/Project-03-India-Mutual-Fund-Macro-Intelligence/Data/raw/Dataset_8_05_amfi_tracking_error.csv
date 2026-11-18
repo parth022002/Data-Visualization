@@ -1,0 +1,720 @@
+﻿Scheme_Name,Benchmark,RegularPercent,DirectPercent,mfId,date,source_url,data_period
+Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund,BSE 500 Momentum 50 Total Return Index,0.3,0.3,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life BSE 500 Quality 50 Index Fund,BSE 500 Quality 50 Total Return Index,0.15,0.14,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life BSE India Infrastructure Index Fund,BSE India Infrastructure Total Return Index,0.14,0.12,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life BSE Sensex ETF,BSE Sensex Total Return Index,0.06,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life BSE Top 10 Banks ETF,BSE Top 10 Banks Total Return Index,0.04,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL 10 Year Gilt ETF,CRISIL 10-Year Gilt,0.43,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL Broad Based Gilt ETF,CRISIL Broad Based Gilt Index,0.72,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Index - April 2028,0.5,0.5,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund,CRISIL IBX 60:40 SDL + AAA PSU Index - April 2027,0.22,0.22,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX Gilt -Apr 2029 Index Fund,CRISIL IBX Gilt Index - April 2029,0.75,0.75,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX Gilt Apr 2028 Index Fund,CRISIL IBX Gilt Index - April 2028,0.4,0.4,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX Gilt April 2033 Index Fund,CRISIL IBX Gilt Index - April 2033,1.1,1.1,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX Gilt June 2027 Index Fund,CRISIL IBX Gilt Index - June 2027,0.32,0.31,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund,CRISIL IBX SDL Index - June 2032,1.31,1.31,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL Liquid Overnight ETF,CRISIL Liquid Overnight Index,0.02,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL-IBX AAA Financial Services Index-Sep 2027 Fund,CRISIL IBX AAA Financial Services Index - Sep 2027,0.35,0.33,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL-IBX AAA NBFC-HFC Index-Sep 2026 Fund,CRISIL-IBX AAA NBFC-HFC Index - Sep 2026,0.13,0.13,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL-IBX Financial Services 3 to 6 Months Debt Index Fund,CRISIL-IBX Financial Services 3 to 6 Months Debt Index,0.11,0.11,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life CRISIL-IBX Financial Services 9-12 Months Debt Index Fund,CRISIL-IBX Financial Services 9-12 Months Debt Index,0.19,0.19,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Gold ETF,Domestic Price of Gold,0.42,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life MSCI India ETF,MSCI India Total Return Index,0.25,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty 200 Momentum 30 ETF,Nifty 200 Momentum 30 Total Return Index,0.26,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty 200 Quality 30 ETF,NIFTY 200 Quality 30 Total Return Index,0.07,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund,NIFTY 50 Equal Weight Total Return Index,0.07,0.06,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty 50 ETF,NIFTY 50 Total Return Index,0.05,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty 50 Index Fund,NIFTY 50 Total Return Index,0.07,0.07,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Bank ETF,NIFTY Bank Total Return Index,0.03,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Healthcare ETF,NIFTY Healthcare Total Return Index.,0.02,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty India Defence Index Fund,Nifty India Defence Total Return Index,0.13,0.12,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty IT ETF,NIFTY IT Total Return Index,0.46,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Midcap 150 Index Fund,NIFTY Midcap 150 Total Return Index,0.05,0.04,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Next 50 ETF,NIFTY Next 50 Total Return Index,0.07,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Next 50 Index Fund,NIFTY Next 50 Total Return Index,0.12,0.11,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty PSE ETF,NIFTY PSE Total Return Index,0.04,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund,Nifty SDL Apr 2027 Index,0.46,0.46,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund,Nifty SDL Plus PSU Bond Sep 2026 60:40 Index,0.23,0.23,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty SDL Sep 2027 Index Fund,Nifty SDL Sep 2027 Index,1.01,1.01,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,NIFTY Smallcap 50 Total Return Index,0.22,0.22,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Aditya Birla Sun Life Silver ETF,Domestic Price of Silver,0.72,,3,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE GOLD ETF,DOMESTIC PRICE OF GOLD,,0.72,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH,NIFTY 1D RATE INDEX,,0.01,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY 50 ETF,NIFTY 50 TRI,,0.04,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY 50 INDEX FUND,NIFTY 50 TRI,0.05,0.05,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY TOTAL MARKET ETF,NIFTY TOTAL MARKET TRI,,0.03,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY TOTAL MARKET INDEX FUND,NIFTY TOTAL MARKET TRI,0.06,0.04,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF,NIFTY TOTAL MARKET MOMENTUM QUALITY 50 TRI,,0.26,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND,NIFTY TOTAL MARKET MOMENTUM QUALITY 50 TRI,0.24,0.24,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ANGEL ONE SILVER ETF,DOMESTIC PRICE OF SILVER,,1.57,80,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis BSE India Sector Leaders Index Fund,BSE India Sector Leaders,0.1,0.1,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis BSE Sensex ETF,BSE Sensex TRI,0.03,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis BSE Sensex Index Fund,BSE Sensex TRI,0.16,0.16,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Index  June 2028,0.55,0.55,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Index  Sep 2027,0.32,0.31,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL IBX SDL May 2027 Index Fund,CRISIL IBX SDL Index  May 2027,0.44,0.44,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,CRISIL IBX AAA Financial Services Index  Sep 2027,0.31,0.32,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,CRISIL-IBX AAA NBFC Index  Jun 2027,0.37,0.37,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,CRISIL-IBX AAA NBFC-HFC Index Jun 2027,0.32,0.31,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index,0.13,0.13,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Gold ETF,Domestic Price of Gold,0.75,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty 100 Index Fund,Nifty 100 TRI,0.04,0.03,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY 50 ETF,Nifty 50 TRI,0.03,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty 50 Index Fund,Nifty 50 TRI,0.05,0.04,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty 500 Index Fund,Nifty 500 TRI,0.19,0.19,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY Bank ETF,Nifty Bank TRI,0.04,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Bank Index Fund,Nifty Bank TRI,0.07,0.06,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Capital Markets Index Fund,Nifty Capital Markets TRI,0.18,0.17,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Energy ETF,Nifty Energy TRI,0.13,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Energy Index Fund,Nifty Energy TRI,0.04,0.06,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY Healthcare ETF,Nifty Healthcare TRI,0.02,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY India Consumption ETF,Nifty India Consumption TRI,0.04,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty India Defence Index Fund,Nifty India Defence TRI,0.25,0.23,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY IT ETF,Nifty IT TRI,0.08,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis NIFTY IT Index Fund,Nifty IT TRI,0.12,0.11,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Midcap 50 Index Fund,Nifty Midcap 50 TRI,0.09,0.08,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.08,0.08,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty SDL September 2026 Debt Index Fund,Nifty SDL Sep 2026 Index,0.36,0.36,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty Smallcap 50 Index Fund,Nifty Smallcap 50 TRI,0.25,0.25,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty50 Equal Weight Index Fund,Nifty 50 Equal Weight TRI,0.09,0.09,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty500 Momentum 50 Index Fund,Nifty500 Momentum 50 TRI,0.34,0.34,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty500 Quality 50 Index Fund,Nifty500 Quality 50 TRI,0.11,0.09,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty500 Value 50 ETF,NIFTY 500 Value 50 TRI,0.11,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Nifty500 Value 50 Index Fund,NIFTY 500 Value 50 TRI,0.17,0.17,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Axis Silver ETF,Domestic price of Silver,0.94,,53,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv BSE Top 10 Banks ETF,BSE Top 10 Banks TRI,0,0.06,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth,NIFTY 1D RATE INDEX,,0.08,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv Nifty 50 ETF,NIFTY 50 TRI,,0.04,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv Nifty 50 Index Fund,NIFTY 50 TRI,0.41,0.41,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv Nifty Bank ETF,NIFTY BANK TRI,,0.05,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bajaj Finserv Nifty Next 50 Index Fund,NIFTY NEXT 50 TRI,0.28,0.28,75,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan BSE Healthcare Index Fund,BSE Health Care - TRI,0.06,0.04,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan BSE India Sector Leaders Index Fund,BSE?India?Sector?Leaders TRI,0.06,0.05,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan BSE Sensex ETF,BSE SENSEX - TRI,0.03,,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL IBX 90:10 SDL Plus Gilt - April 2032 Index Fund,CRISIL IBX 90:10 SDL Plus Gilt Index - April 2032,1.24,1.24,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL IBX 90:10 SDL Plus Gilt - Nov 2026 Index Fund,CRISIL IBX 90:10 SDL Plus Gilt Index - November 2026,0.25,0.25,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND,CRISIL IBX 90:10 SDL Plus Gilt Index - September 2027,0.54,0.54,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL IBX Gilt April 2028 Index Fund,CRISIL IBX Gilt Index - April 2028,0.4,0.4,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL IBX Gilt April 2032 Index Fund,CRISIL IBX Gilt Index - April 2032,0.76,0.76,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL IBX Gilt June 2027 Index Fund,CRISIL IBX Gilt Index - June 2027,0.19,0.19,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL IBX Financial Services 3-6 Months Debt Index,0.12,0.12,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Gold ETF,Domestic Price of Physical Gold,1.05,,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 100 Index Fund,NIFTY 100 - TRI,0.03,0.02,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 200 Quality 30 Index Fund,NIFTY200 Quality 30 - TRI,0.16,0.16,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 50 ETF,NIFTY 50 - TRI,0.03,,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 50 Index Fund,NIFTY 50 - TRI,0.03,0.03,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 500 Momentum 50 Index Fund,Nifty500 Momentum 50 - TRI,0.3,0.3,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty 500 Value 50 Index Fund,NIFTY500 Value 50 - TRI,0.25,0.25,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Alpha 50 Index Fund,Nifty Alpha 50 - TRI,0.52,0.52,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Alpha Low Volatility 30 Index Fund,NIFTY Alpha Low-Volatility 30 - TRI,0.18,0.17,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Bank Index Fund,NIFTY BANK - TRI,0.05,0.04,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty IT Index Fund,NIFTY IT - TRI,0.08,0.07,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Midcap 150 Index Fund,Nifty Midcap 150 - TRI,0.08,0.07,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Next 50 Index Fund,NIFTY Next 50 - TRI,0.08,0.07,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 - TRI,0.14,0.13,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty Total Market Index Fund,Nifty Total Market - TRI,0.09,0.08,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty100 Low Volatility 30 Index Fund,Nifty100 Low Volatility 30 - TRI,0.1,0.09,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Nifty200 Momentum 30 Index Fund,Nifty200 Momentum 30 - TRI,0.32,0.31,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Bandhan Silver ETF,Domestic Price of Physical Silver,1.65,,48,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas Gold ETF,Domestic Price of Gold,0.54,,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas Nifty 50 Index Fund,Nifty 50 Total Returns Index,0.11,0.11,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas Nifty Bank ETF,Nifty Bank Total Returns Index,0.1,,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas NIFTY Midcap 150 Index Fund,Nifty Midcap 150 Total Returns Index,0.19,0.19,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,NIFTY SDL December 2028 Index,1.84,1.84,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Baroda BNP Paribas Nifty200 Momentum 30 Index Fund,Nifty200 Momentum 30 Total Returns Index,0.37,0.36,4,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BHARAT 22 ETF,BSE Bharat 22 TRI,,0.15,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BHARAT Bond ETF - April 2030,NIFTY BHARAT Bond Index - April 2030,,0.79,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BHARAT Bond ETF - April 2032,NIFTY BHARAT Bond Index - April 2032,,1.58,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BHARAT Bond ETF - April 2033,NIFTY BHARAT Bond Index - April 2033,,1.87,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+BHARAT Bond ETF- April 2031,NIFTY BHARAT Bond Index - April 2031,,1.28,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Choice Gold ETF,Domestic price of gold,0,0.65,84,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Choice Nifty 50 Index Fund,Nifty 50 Total Return Index,0.16,0.16,84,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Choice Nifty Next 50 Index Fund,Nifty Next 50 Total Return Index,0.42,0.41,84,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+CPSE ETF,Nifty CPSE TRI,0.04,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE Liquid Rate ETF,BSE Liquid Rate Index,0.01,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE MidSmall Private Banks ETF,BSE MidSmall Private Banks,0.05,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE Sensex ETF,BSE Sensex TRI,0.06,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE SENSEX Next 30 ETF,BSE SENSEX Next 30 TRI,0.07,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE SENSEX Next 30 Index Fund,BSE SENSEX Next 30 TRI,0.11,0.11,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP BSE Top 10 Banks ETF,BSE Top 10 Banks Index,0.12,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund,CRISIL-IBX 50:50 SDL Plus Gilt Index - April 2033,0.79,0.79,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Gold ETF,Price of Gold,0.5,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP MSCI India ETF,MSCI INDIA INDEX TRI,0.1,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 10 yr Benchmark G-Sec ETF,Nifty 10 yr Benchmark G-Sec,0.03,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP NIFTY 1D Rate Liquid ETF,NIFTY 1D Rate Index,0.04,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 50 Equal Weight ETF,Nifty 50 Equal Weight TRI,0.08,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 50 Equal Weight Index Fund,Nifty 50 Equal Weight TRI,0.08,0.07,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 50 ETF,Nifty 50 TRI,0.05,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 50 Index Fund,Nifty 50 TRI,0.06,0.06,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty 500 Index Fund,Nifty 500 TRI,0.14,0.14,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Bank ETF,Nifty Bank TRI,0.05,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Bank Index Fund,Nifty Bank TRI,0.07,0.06,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty FMCG ETF,Nifty FMCG ETF,0.1,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Healthcare ETF,Nifty Healthcare TRI,0.02,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Healthcare Index Fund,Nifty Healthcare TRI,0.09,0.09,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty IT ETF,Nifty IT TRI,0.27,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty IT Index Fund,Nifty IT TRI,0.33,0.33,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Midcap 150 ETF,NIFTY MIDCAP 150 TRI,0.17,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Midcap 150 Index Fund,NIFTY MIDCAP 150 TRI,0.14,0.14,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Midcap 150 Quality 50 ETF,Nifty Midcap 150 Quality 50 TRI,0.08,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Midcap 150 Quality 50 Index Fund,Nifty Midcap 150 Quality 50 TRI,0.1,0.1,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Next 50 ETF,Nifty Next 50 TRI,0.12,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.15,0.15,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Private Bank ETF,Nifty Private Bank TRI,0.03,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Private Bank Index Fund,Nifty Private Bank TRI,0.08,0.08,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty PSU Bank ETF,Nifty PSU Bank TRI,0.06,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund,Nifty SDL Plus G-Sec Jun 2028 30:70 Index,0.61,0.61,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,0.61,0.61,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Smallcap 250 ETF,NIFTY SMALLCAP 250 TRI,0.35,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Smallcap 250 Index Fund,NIFTY SMALLCAP 250 TRI,0.27,0.27,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Smallcap250 Quality 50 Index Fund,NIFTY Smallcap250 Quality 50 TRI,0.25,0.24,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Top 10 Equal Weight ETF,Nifty Top 10 Equal Weight TRI,0.08,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty Top 10 Equal Weight Index Fund,Nifty Top 10 Equal Weight TRI,0.09,0.08,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty500 Flexicap Quality 30 ETF,Nifty500 Flexicap Quality 30 TRI,0.23,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Nifty500 Flexicap Quality 30 Index Fund,Nifty500 Flexicap Quality 30 TRI,0.33,0.32,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+DSP Silver ETF,Price of Silver,0.62,,6,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss BSE Capital Markets & Insurance ETF,BSE Capital Markets & Insurance Index,,0.06,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss BSE Internet Economy Index Fund,BSE Internet Economy Index,0.11,0.1,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss BSE LargeMid (60:40) Stable dividend 50 ETF,BSE LargeMid (60:40) Stable Dividend 50 Total Return Index,,0.25,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss BSE Sensex ETF,BSE Sensex TRI,,0.08,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss BSE Top 10 Bank ETF,BSE Top 10 Bank Total Return Index,,0.3,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index,0.84,0.84,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index,0.25,0.25,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index,0.5,0.5,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index,0.59,0.59,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund,CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index,0.29,0.29,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index Fund,CRISIL IBX AAA Financial Services Bond - Jan 2028 Index,0.41,0.4,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Gold ETF,Domestic prices of physical Gold,,1.15,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund,MSCI India Domestic & World Healthcare 45 Index,1.22,1.22,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty 100 Quality 30 Index Fund,Nifty 100 Quality 30 TRI,0.14,0.14,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty 1D Rate Liquid ETF - Growth,Nifty 1D Rate Index,,0.06,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty 50 ETF,Nifty 50 TRI,,0.1,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty 50 Index Fund,Nifty 50 TRI,0.07,0.07,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Alpha Low Volatility 30 Index Fund,Nifty Alpha Low Volatility 30 Index,0.18,0.18,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Bank ETF,Nifty Bank TRI,,0.06,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss NIFTY Large Midcap 250 Index Fund,Nifty Large Midcap 250 TRI,0.07,0.06,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty LargeMidcap 250 ETF,Nifty Large Midcap 250 TRI,,0.08,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty LargeMidcap250 Plus 8-13yr G-Sec 70:30 Index Fund,Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index,0.23,0.22,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Metal ETF,Nifty Metal TRI,,0.45,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Midcap150 Momentum 50 Index Fund,Nifty Midcap 150 Momentum 50 TRI,0.31,0.31,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Next 50 ETF,Nifty Next 50 TRI,,1.35,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.15,0.15,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund,NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index,0.42,0.42,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty REITs & Realty Index Fund,Nifty REITs & Realty TRI,1.22,1.22,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,0.2,0.2,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty500 Multicap Momentum Quality 50 ETF,Nifty500 Multicap Momentum Quality 50 TRI,,0.3,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund,Nifty500 Multicap Momentum Quality 50 Index,0.3,0.29,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Edelweiss Silver ETF,Prices of Silver (based on LBMA silver daily spot fixing prices),,1.31,47,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Franklin India NSE Nifty 50 Index Fund,Nifty 50,0.13,0.12,27,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww BSE Hospitals ETF,BSE Hospitals Index - TRI,0.1,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww BSE Power ETF,BSE Power Index - TRI,0.05,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Gold ETF,Domestic Price of Physical Gold (based on London Bullion Market association (LBMA) gold daily spot fixing price),0.57,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 1D Rate Liquid ETF,Nifty 1D Rate Index,0.08,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 200 ETF,Nifty 200 Index TRI,0.05,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 50 ETF,Nifty 50 Index - TRI,0.06,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 50 Index Fund,Nifty 50 Index - TRI,0.06,0.05,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 500 Low Volatility 50 ETF,Nifty 500 Low Volatility 50 Index TRI,0.19,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty 500 Momentum 50 ETF,Nifty 500 Momentum 50 Index TRI,0.27,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Capital Markets ETF,Nifty Capital Markets Index - TRI,0.16,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Cements ETF,Nifty Cements index- TRI,0.29,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Chemicals ETF,Nifty Chemicals Index - TRI,0.15,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty EV & New Age Automotive ETF,Nifty EV and New Age Automotive Index,0.11,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty India Defence ETF,Nifty India Defence Index,0.11,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty India Internet ETF,Nifty India Internet Index - TRI,0.04,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty India Railways PSU ETF,Nifty India Railways PSU India- TRI,0.04,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty India Railways PSU Index Fund,Nifty India Railways PSU Index -TRI,0.13,0.13,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Metal ETF,Nifty Metal Index - TRI,0.36,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Midcap 150 ETF,Nifty Midcap 150 Index TRI,0.23,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Midcap 150 Index Fund,Nifty Midcap 150 Index TRI,0.22,0.22,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Next 50 ETF,Nifty Next 50 Index - TRI,0.15,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Next 50 Index Fund,Nifty Next 50 Index - TRI,0.18,0.17,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Non-Cyclical Consumer Index Fund,Nifty Non-Cyclical Consumer Index TRI,0.07,0.06,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Private Bank ETF,Nifty Private Bank Index - TRI,0.22,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Private Bank Index Fund,Nifty Private Bank Index - TRI,0.17,0.17,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty PSE ETF,Nifty PSE Index - TRI,0.19,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty PSU Bank ETF,Nifty PSU Bank Index - TRI,0.31,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty PSU Bank Index Fund,Nifty PSU Bank Index - TRI,0.89,0.89,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Realty ETF,Nifty Realty Index - TRI,0.08,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Smallcap 250 ETF,Nifty Smallcap 250 Index TRI,0.28,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 Index TRI,0.23,0.23,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Nifty Smallcap 250 Momentum Quality 100 Index - TRI,0.25,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund,Nifty Smallcap 250 Momentum Quality 100 Index -TRI,0.38,0.38,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Nifty Total Market Index Fund,Nifty Total Market Index TRI,0.05,0.04,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Groww Silver ETF,Domestic Price of Physical Silver (based on London Bullion Market association (LBMA) Silver daily spot fixing price),1.03,0,63,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE 500 ETF,BSE 500 Index (TRI),,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE 500 Index Fund,BSE 500 Total Returns Index (TRI),0.06,0.05,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE India Sector Leaders Index Fund,BSE India Sector Leaders Index Fund (TRI),0.04,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE REITS and Commercial Real Estate Index fund,BSE REITS and Commercial Real Estate Index (TRI),0.35,0.36,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE SENSEX ETF,BSE SENSEX (TRI),,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC BSE Sensex Index Fund,BSE SENSEX (TRI),0.04,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index,0.13,0.13,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund,CRISIL-IBX Financial Services 9-12 Months Debt Index,0.21,0.21,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Gold ETF,Domestic Price of Gold,,0.39,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY 100 Equal Weight Index Fund,Nifty100 Equal Weight Index,0.08,0.07,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY 100 ETF,Nifty 100 Index,,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY 100 Index Fund,Nifty 100 Index,0.05,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY 1D Rate Liquid ETF,Nifty 1D Rate index,,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY 50 ETF,Nifty 50 Index,,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty 50 Index Fund,Nifty 50 Index,0.02,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty Auto Index Fund,Nifty Auto TRI,0.11,0.1,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY BANK ETF,Nifty Bank Index,,0.03,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec Apr 2029 Index Fund,Nifty G-Sec Apr 2029 Index,0.92,0.92,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec Dec 2026 Index Fund,Nifty G-sec Dec 2026 Index,0.38,0.38,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec July 2031 Index Fund,Nifty G-Sec July 2031 Index,1.17,1.17,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec Jun 2027 Index Fund,Nifty G-Sec Jun 2027 Index,0.4,0.4,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec Jun 2036 Index Fund,Nifty G-Sec Jun 2036 Index,1.5,1.5,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty G-Sec Sep 2032 Index Fund,Nifty G-Sec Sep 2032 Index,1.81,1.8,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY GROWTH SECTORS 15 ETF,Nifty Growth Sectors 15 Index,,0.05,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty India Consumption Index Fund,Nifty India Consumption Index (TRI),0.21,0.21,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty India Digital Index Fund,Nifty India Digital Index Fund (TRI),0.12,0.12,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY IT ETF,Nifty IT Index,,0.05,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY LargeMidcap 250 Index Fund,NIFTY Large Midcap 250 Index (TRI),0.05,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty Metal ETF,Nifty Metal TRI,,0.17,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Midcap 150 ETF,Nifty Midcap 150 Index,,0.03,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Midcap 150 Index Fund,Nifty Midcap 150 Index,0.06,0.06,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY NEXT 50 ETF,Nifty Next 50 Index,,0.07,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Next 50 index Fund,Nifty Next 50 Index,0.05,0.05,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Private Bank ETF,Nifty Private Bank Index,,0.02,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY PSU BANK ETF,NIFTY PSU BANK Index,,0.07,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Realty Index Fund,NIFTY Realty Index,0.15,0.15,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty SDL Oct 2026 Index Fund,Nifty SDL Oct 2026 Index,0.35,0.35,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY SDL Plus G-Sec Jun 2027 40:60 Index Fund,NIFTY SDL Plus G-Sec Jun 2027 40:60 Index,0.39,0.39,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Smallcap 250 ETF,Nifty Smallcap 250 Index,,0.13,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY Smallcap 250 Index Fund,Nifty Smallcap 250 Index,0.12,0.11,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty Top 20 Equal Weight Index Fund,Nifty Top 20 Equal Weight (TRI),0.08,0.08,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY100 Low Volatility 30 ETF,Nifty 100 Low Volatility 30 Index,,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY100 Low Volatility 30 Index Fund,Nifty 100 Low Volatility 30 Index,0.07,0.06,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY100 QUALITY 30 ETF,NIFTY 100 Quality 30 Index,,0.07,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Nifty100 Quality 30 Index Fund,NIFTY 100 Quality 30 Index (TRI),0.08,0.07,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY200 MOMENTUM 30 ETF,Nifty 200 Momentum 30 Index,,0.22,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY200 Momentum 30 Index Fund,NIFTY200 Momentum 30 Index,0.28,0.27,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY50 Equal Weight Index Fund,Nifty 50 Equal Weight Index,0.05,0.03,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY50 VALUE 20 ETF,Nifty 50 Value 20 Index,,0.09,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC NIFTY500 Multicap 50:25:25 Index Fund,NIFTY500 MultiCap 50:25:25 Index (TRI),0.05,0.04,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HDFC Silver ETF,Domestic Price of Physical Silver,,0.94,9,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,CRISIL IBX 50:50 Gilt Plus SDL Index - April 2028,0.47,0.47,37,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HSBC CRISIL IBX Gilt June 2027 Index Fund,CRISIL-IBX Gilt Index - June 2027,0.26,0.26,37,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HSBC Gold ETF,Domestic Price of Gold,1.6,,37,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HSBC NIFTY 50 Index Fund,Nifty 50 TRI,0.11,0.1,37,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+HSBC NIFTY NEXT 50 Index Fund,Nifty Next 50 TRI,0.44,0.44,37,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE 500 ETF,BSE 500 TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Insurance ETF,BSE Insurance TRI,,0.7,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Liquid Rate ETF - Growth,BSE Liquid Rate Index,,0.19,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Liquid Rate ETF - IDCW,BSE Liquid Rate Index,,0.19,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Midcap Select ETF,BSE Midcap Select TRI,,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Sensex ETF,BSE SENSEX TRI,,0.02,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential BSE Sensex Index Fund,BSE SENSEX TRI,0.03,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index,0.12,0.12,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Gold ETF,Domestic Prices of Gold,,0.47,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential NASDAQ 100 Index Fund,Nasdaq 100 TRI,0.14,0.13,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 10 yr Benchmark G-sec ETF,Nifty 10 yr Benchmark G-Sec Index,,0.06,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 100 ETF,Nifty 100 TRI,,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 100 Low Volatility 30 ETF,Nifty 100 Low Volatility 30 TRI,,0.16,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 200 Momentum 30 ETF,Nifty 200 Momentum 30 TRI,,0.25,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 200 Momentum 30 Index Fund,Nifty 200 Momentum 30 TRI,0.27,0.27,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 200 Quality 30 ETF,NIFTY200 Quality 30 TRI,,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 5 yr Benchmark G-SEC ETF,Nifty 5 yr Benchmark G-sec Index,,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 50 ETF,Nifty 50 TRI,,0.02,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 50 Index Fund,Nifty 50 TRI,0.03,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty 500 Index Fund,Nifty 500 TRI,0.16,0.15,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Alpha Low- Volatility 30 ETF,Nifty Alpha Low -Volatility 30 TRI,,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Auto ETF,Nifty Auto TRI,,0.06,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Auto Index Fund,Nifty Auto TRI,0.08,0.07,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Bank ETF,Nifty Bank TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Bank Index Fund,Nifty Bank TRI,0.06,0.05,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Commodities ETF,Nifty Commodities TRI,,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty EV & New Age Automotive ETF,Nifty EV & New Age Automotive TRI,,0.09,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Financial Services Ex-Bank ETF,Nifty Financial Services Ex-Bank TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty FMCG ETF,Nifty FMCG TRI,,0.06,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,Nifty G-Sec Dec 2030 Index,1.24,1.24,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Healthcare ETF,NIFTY Healthcare TRI,,0.02,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty India Consumption ETF,Nifty India Consumption TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Infrastructure ETF,Nifty Infrastructure TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty IT ETF,Nifty IT TRI,,0.06,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty IT Index Fund,Nifty IT TRI,0.11,0.1,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty LargeMidcap 250 Index Fund,Nifty LargeMidcap 250 TRI,0.04,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Metal ETF,Nifty Metal TRI,,0.34,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Midcap 150 ETF,Nifty Midcap 150 TRI,,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.06,0.05,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Next 50 ETF,Nifty Next 50 TRI,,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.14,0.14,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Oil & Gas ETF,Nifty Oil & Gas TRI,,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Pharma Index Fund,Nifty Pharma TRI,0.06,0.05,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Private Bank ETF,Nifty Private Bank TRI,,0.02,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Private Bank Index Fund,Nifty Private Bank TRI,0.22,0.22,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty PSU Bank ETF,Nifty PSU Bank TRI,,0.08,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund,Nifty PSU Bond Plus SDL SEP 2027 40:60 Index,0.65,0.65,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty SDL Dec 2028 Index Fund,Nifty SDL Dec 2028 Index,1.86,1.86,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty SDL Sep 2026 Index Fund,Nifty SDL Sep 2026 Index,0.34,0.34,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty SDL Sep 2027 Index Fund,Nifty SDL Sep 2027 Index,1.03,1.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Smallcap 250 ETF,Nifty Smallcap 250 TRI,,0.31,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,0.11,0.11,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Top 15 Equal Weight ETF,Nifty Top 15 Equal Weight TRI,,0.03,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty Top 15 Equal Weight Index Fund,Nifty Top 15 Equal Weight TRI,0.29,0.29,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty200 Quality 30 Index Fund,NIFTY200 Quality 30 TRI,0.08,0.07,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty200 Value 30 ETF,Nifty200 Value 30 TRI,,0.15,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty200 Value 30 Index Fund,Nifty200 Value 30 TRI,0.26,0.26,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty50 Equal Weight Index Fund,Nifty50 Equal Weight TRI,0.06,0.04,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty50 Value 20 ETF,Nifty50 Value 20 TRI,,0.09,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Nifty50 Value 20 Index Fund,Nifty50 Value 20 TRI,0.1,0.1,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+ICICI Prudential Silver ETF,Domestic Prices of Silver,,0.54,20,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India BSE Sensex ETF,BSE Sensex TRI,0.2,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India BSE Sensex Index Fund,BSE Sensex TRI,0.46,0.46,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Gold Exchange Traded Fund,Price of Gold,0.44,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty 50 Exchange Traded Fund,Nifty 50 TRI,0.06,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty Bank ETF,Nifty Bank TRI,0.09,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty Bank Index Fund,Nifty Bank TRI,0.14,0.14,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty Chemical Index Fund,Nifty Chemical Index TRI,,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty G-sec Jul 2027 Index Fund,Nifty G-sec Jul 2027 Index,0.34,0.34,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty G-sec Sep 2032 Index Fund,Nifty G-sec Sep 2032 Index,1.05,1.05,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Invesco India Nifty India Defence Index Fund,Nifty India Defence Index TRI,,,42,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty 50 ETF,Nifty 50 TRI,0.01,0.01,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty 50 Index Fund,Nifty 50 TRI,0.05,0.1,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty 8-13 yr G-Sec Index Fund,Nifty 8-13 yr G-Sec Index,0.07,0.34,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.18,0.14,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.03,0.16,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+JioBlackRock Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,0.28,0.13,82,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak BSE Housing Index Fund,BSE Housing TRI,0.08,0.07,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak BSE PSU Index Fund,BSE PSU TRI,0.1,0.1,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak BSE Sensex ETF,BSE Sensex TRI,0.03,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak BSE Sensex Index Fund,BSE Sensex TRI,0.1,0.1,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak CRISIL- IBX AAA Bond Financial Services Index - Dec 2026 Fund,CRISIL IBX AAA Financial Services Index Dec 2026,0.19,0.19,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak CRISIL-IBX AAA Financial Services Index-Sep 2027 Fund,CRISIL IBX AAA Financial Services Index  Sep 2027,0.33,0.33,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index,0.32,0.32,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund,CRISIL-IBX Financial Services 9-12 Months Debt Index,0.19,0.2,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Gold ETF,Domestic Price of Physical Gold,0.38,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak MSCI India ETF,MSCI India Index TRI,0.19,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 100 Equal Weight ETF,Nifty100 Equal Weight TRI,0.07,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 100 Equal Weight Index Fund,Nifty100 Equal Weight TRI,0.14,0.13,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 100 Low Volatility 30 ETF,Nifty 100 Low Volatility 30 TRI,0.07,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 100 Low Volatility 30 Index Fund,Nifty 100 Low Volatility 30 TRI,0.12,0.12,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 1D Rate Liquid ETF,Nifty 1D Rate Index,0.01,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 200 Momentum 30 ETF,Nifty 200 Momentum 30 Index TRI,0.27,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 200 Momentum 30 Index Fund,Nifty 200 Momentum 30 Index TRI,0.2,0.19,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 200 Quality 30 Index Fund,Nifty 200 Quality 30 Index TRI,0.11,0.11,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 50 Equal Weight Index Fund,Nifty 50 Equal Weight TRI,0.13,0.14,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 50 ETF,Nifty 50 TRI,0.03,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 50 Index Fund,Nifty 50 TRI,0.06,0.06,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty 50 Value 20 ETF,Nifty 50 Value 20 TRI,0.17,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund,Nifty AAA Financial Services Bond Mar 2028 Index,0.53,0.53,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Alpha 50 ETF,Nifty Alpha 50 TRI,0.8,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Alpha 50 Index Fund,Nifty Alpha 50 TRI,0.87,0.88,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Alpha Low Volatility 30 Index Fund,NIFTY Alpha Low Volatility 30 TRI,0.28,0.28,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Bank ETF,Nifty Bank TRI,0.04,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Bank Index Fund,Nifty Bank TRI,0.4,0.43,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Chemicals ETF,Nifty Chemicals TRI,0.07,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Commodities Index Fund,Nifty Commodities TRI,0.08,0.08,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Financial Services Ex-Bank Index Fund,Nifty Financial Services Ex-Banks TRI,0.37,0.36,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty G-Sec July 2033 Index Fund,Nifty G-Sec July 2033 Index,1,1,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak NIFTY India Consumption ETF,Nifty India Consumption TRI,0.06,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty India Tourism Index Fund,Nifty India Tourism TRI,0.13,0.12,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty IT ETF,Nifty IT TRI,0.2,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Midcap 150 ETF,Nifty Midcap 150 TRI,0.06,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.14,0.12,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak NIFTY Midcap 150 Momentum 50 Index Fund,Nifty Midcap150 Momentum 50 TRI,0.12,0.12,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Midcap 50 ETF,Nifty Midcap 50 TRI,0.05,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak NIFTY Midcap 50 Index Fund,Nifty Midcap 50 TRI,0.1,0.1,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty MNC ETF,Nifty MNC TRI,0.08,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Next 50 ETF,Nifty Next 50 TRI,0.17,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.09,0.09,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Private Bank ETF,Nifty Private Bank TRI,0.03,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty PSU Bank ETF,Nifty PSU Bank TRI,0.08,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund,Nifty SDL Apr 2027 Top 12 Equal Weight Index,0.71,0.71,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund,Nifty SDL Apr 2032 Top 12 Equal Weight Index,2.33,2.33,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty SDL Jul 2033 Index Fund,Nifty SDL Jul 2033 Index,2.42,2.42,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60 - 40 Index Fund,Nifty SDL Plus AAA PSU Bond Jul 2028 60 - 40 Index Fund,1.02,1.02,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,0.17,0.17,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Smallcap 50 Index Fund,Nifty Smallcap 50 TRI,0.43,0.42,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty Top 10 Equal Weight Index Fund,Nifty Top 10 Equal Weight TRI,0.12,0.13,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty200 Quality 30 ETF,Nifty 200 Quality 30 Index TRI,0.09,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty200 Value 30 Index Fund,Nifty200 Value 30 TRI,0.24,0.24,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Nifty500 Momentum 50 Index Fund,Nifty500 Momentum 50 TRI,0.3,0.29,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Kotak Silver ETF,Domestic Price of Physical Silver,0.6,,17,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF BSE Sensex ETF,BSE Sensex TRI,0.07,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF BSE Sensex Index Fund,BSE Sensex TRI,0.16,0.16,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Gold Exchange Traded Fund,Domestic Price of Gold,0.48,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty 100 ETF,Nifty 100 TRI,0.1,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty 50 ETF,Nifty 50 TRI,0.07,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty 50 Index Fund,Nifty 50 TRI,0.11,0.11,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty 8-13 yr G-Sec ETF,Nifty 8-13 yr G-Sec Index,0.24,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty Midcap 100 ETF,Nifty Midcap 100 TRI,0.35,,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+LIC MF Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.36,0.35,18,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE 200 Equal Weight ETF,BSE 200 Equal Weight - TRI,0.05,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE 500 Dividend Leaders 50 ETF,BSE 500 Dividend Leaders 50 - TRI,0.1,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE India Defence ETF,BSE India Defence -TRI,0.18,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE Information Technology Index Fund,BSE Information Technology - TRI,0.2,0.16,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,BSE LargeMid (60:40) Stable Dividend 50 TRI,0.17,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE Midcap 150 Momentum 30 ETF,BSE Midcap 150 Momentum 30 - TRI,0.68,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE Select IPO ETF,BSE Select IPO - TRI,0.08,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset BSE Sensex ETF,BSE Sensex -  TRI,0.03,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund,CRISIL IBX Gilt Index - April 2033,0.53,0.53,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund,CRISIL-IBX Financial Services 9-12 Months Debt Index,0.2,0.2,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Gold ETF,Domestic Price of Physical Gold,0.58,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Hang Seng TECH ETF,Hang Seng Tech Index - TRI(INR),0.15,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 100 ESG Sector Leaders ETF,Nifty 100 ESG Sector Leaders Index - TRI,0.06,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 100 Low Volatility 30 ETF,Nifty100 Low Volatility 30 Index - TRI,0.07,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 1D Rate Liquid ETF - Growth,Nifty 1D Rate Liquid Index,0.01,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 1D Rate Liquid ETF-IDCW,Nifty 1D Rate Liquid Index,0.04,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 200 Alpha 30 ETF,Nifty 200 Alpha 30 - TRI,0.4,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 50 ETF,Nifty 50 Index - TRI,0.02,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 50 Index Fund,Nifty 50 -TRI,0.07,0.06,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 500 Healthcare ETF,Nifty 500 Healthcare - TRI,0.18,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 500 Value 50 ETF,Nifty 500 Value 50 - TRI,0.33,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty 8-13 yr G-Sec ETF,Nifty 8-13 yr G-Sec,0.34,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Bank ETF,Nifty Bank Index - TRI,0.03,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Energy ETF,Nifty Energy Index - TRI,0.1,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty EV and New Age Automotive ETF,Nifty EV and New Age Automotive - TRI,0.05,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Financial Services ETF,Nifty Financial Service Index - TRI,0.05,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty India Infrastructure & Logistics ETF,Nifty India Infrastructure & Logistics - TRI,0.1,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty India Internet ETF,Nifty India Internet Index - TRI,0.35,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty India Manufacturing ETF,Nifty India Manufacturing Index - TRI,0.06,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty India New Age Consumption ETF,Nifty India New Age Consumption Index - TRI,0.03,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty IT ETF,Nifty IT Index- TRI,0.06,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty LargeMidcap 250 Index Fund,Nifty Largemidcap 250 - TRI,0.06,0.06,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Metal ETF,Nifty Metal - TRI,0.12,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Midcap 150 ETF,Nifty Midcap 150 Index - TRI,0.09,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF,Nifty Midsmallcap400 Momentum Quality 100 - TRI,0.21,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Next 50 ETF,Nifty Next 50 Index - TRI,0.06,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty PSU Bank ETF,Nifty PSU Bank - TRI,0.08,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty SDL Jun 2027 Index Fund,Nifty SDL Jun 2027 Index,0.84,0.84,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty SDL June 2028 Index Fund,Nifty SDL June 2028 Index,1.65,1.65,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Smallcap 250 ETF,Nifty Smallcap 250 Index - TRI,0.15,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF,Nifty Smallcap250 Momentum Quality 100 - TRI,0.22,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Top 20 Equal Weight ETF,Nifty Top 20 Equal Weight - TRI,0.07,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty Total Market Index Fund,Nifty Total Market - TRI,0.06,0.05,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,Nifty 200 Momentum 30 Plus 8-13 yr G-Sec 50:50 - TRI,0.15,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Nifty 200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index,0.23,0.22,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty50 Equal Weight ETF,Nifty 50 Equal Weight - TRI,0.32,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Nifty500 Multicap 50:25:25 ETF,Nifty 500 Multicap 50:25:25 - TRI,0.04,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset NYSE FANG+ ETF,NYSE FANG+ TRI (INR),0.04,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset S&P 500 Top 50 ETF,S&P 500 Top 50 TRI (INR),0.07,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Mirae Asset Silver ETF,Domestic Price of Physical Silver,0.86,,45,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE 1000 Index Fund,BSE 1000 - TRI,0.08,0.07,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Clean Environment Index Fund,BSE Clean Environment - TRI,0.14,0.13,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Enhanced Value ETF,BSE Enhanced Value Total Return Index,0.19,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Enhanced Value Index Fund,BSE Enhanced Value Total Return Index,0.21,0.21,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Financials ex Bank 30 Index Fund,BSE Financials ex Bank 30 Total Return Index,0.1,0.1,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Healthcare ETF,BSE Healthcare Total Return Index,0.08,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE India Infrastructure ETF,BSE India Infrastructure - TRI,0.06,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Low Volatility ETF,BSE Low Volatility Total Return Index,0.54,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Low Volatility Index Fund,BSE Low Volatility Total Return Index,0.54,0.54,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal oswal BSE midcap 150 Momentum 30 Index Fund,BSE Midcap 150 Momentum 30 - TRI,0.96,0.96,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Quality ETF,BSE Quality Total Return Index,0.11,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Quality Index Fund,BSE Quality Total Return Index,0.12,0.11,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Select IPO ETF,BSE Select IPO - TRI,0.11,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal BSE Top 10 Banks ETF,BSE Top 10 Banks - TRI,0.05,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Gold ETF,Domestic Price of Physical Gold,0.69,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal NASDAQ 100 ETF,Nasdaq 100 Total Return Index,0.2,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nasdaq Q50 ETF,NASDAQ Q-50 Total Return Index,0.52,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 100 ETF,Nifty 100 - TRI,0.15,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 200 Momentum 30 ETF,Nifty 200 Momentum 30 Total Return Index,0.44,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 200 Momentum 30 Index Fund,Nifty 200 Momentum 30 Total Return Index,0.47,0.47,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 5 year Benchmark G-Sec ETF,Nifty 5yr Benchmark G-Sec Index,0.15,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 50 Equal Weight ETF,NIFTY 50 Equal Weight - TRI,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 50 ETF,NIFTY 50 Total Return Index,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 50 Index Fund,NIFTY 50 Total Return Index,0.04,0.04,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 500 ETF,NIFTY 500 Total Return Index,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 500 Index Fund,NIFTY 500 Total Return Index,0.05,0.04,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 500 Momentum 50 ETF,Nifty 500 Momentum 50 Total Return Index,0.43,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty 500 Momentum 50 Index Fund,Nifty 500 Momentum 50 Total Return Index,0.45,0.44,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Alpha 50 ETF,Nifty Alpha 50 - TRI,0.55,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Bank Index Fund,NIFTY Bank Total Return Index,0.05,0.04,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Capital Market ETF,NIFTY CAPITAL MARKETS - TRI,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Capital Market Index Fund,NIFTY CAPITAL MARKETS - TRI,0.07,0.06,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Energy ETF,NIFTY Energy - TRI,0.05,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty India Defence ETF,Nifty India Defence Total Return Index,0.06,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty India Defence Index Fund,Nifty India Defence Total Return Index,0.08,0.07,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty India Manufacturing ETF,Nifty India Manufacturing - TRI,0.12,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty India Tourism ETF,Nifty India Tourism - TRI,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Metal ETF,NIFTY METAL - TRI,0.04,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Microcap 250 Index Fund,Nifty Microcap 250 Total Return Index,0.54,0.54,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Midcap 100 ETF,NIFTY Midcap 100 Total Return Index,0.05,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Midcap 150 Index Fund,NIFTY Midcap 150 Total Return Index,0.05,0.04,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Midcap 150 Momentum 50 ETF,Nifty Midcap 150 Momentum 50 - TRI,0.27,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty MidSmall Financial Services Index Fund,Nifty MidSmall Financial Services TRI,0.11,0.1,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty MidSmall Healthcare Index Fund,Nifty MidSmall Healthcare TRI,0.05,0.04,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty MidSmall India Consumption Index Fund,Nifty MidSmall India Consumption TRI,0.1,0.09,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty MidSmall IT and Telecom Index Fund,Nifty MidSmall IT and Telecom TRI,0.13,0.12,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty MNC ETF,NIFTY MNC - TRI,0.28,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Next 50 ETF,NIFTY NEXT 50 TR,0.12,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Next 50 Index Fund,NIFTY Next 50 Total Return Index,0.14,0.13,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Oil & Gas ETF,NIFTY OIL & GAS - TRI,0.03,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty PSE ETF,Nifty PSE - TRI,0.1,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Realty ETF,Nifty Realty Total Return Index,0.05,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Services Sector ETF,NIFTY Services Sector - TRI,0.1,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Smallcap 250 ETF,NIFTY Smallcap 250 Total Return Index,0.21,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Nifty Smallcap 250 Index Fund,NIFTY Smallcap 250 Total Return Index,0.09,0.08,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal S&P 500 Index Fund,S&P 500 Total Return Index,0.17,0.17,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Motilal Oswal Silver ETF,Domestic Price of Physical Silver,1.2,,55,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India BSE Sensex Next 30 ETF,BSE Sensex Next 30 TRI,0.05,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India BSE Sensex Next 30 Index Fund,BSE Sensex Next 30 TRI,0.06,0.06,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India CRISIL - IBX AAA Financial Services - Dec 2026 Index Fund,CRISIL-IBX AAA Financial Services Index - Dec 2026,0.19,0.19,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India CRISIL - IBX AAA Financial Services - Jan 2028 Index Fund,CRISIL-IBX AAA Financial Services Index - Jan 2028,0.35,0.35,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index,0.11,0.11,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India CRISIL-IBX Financial Services 9-12 Months Debt Index Fund,CRISIL-IBX Financial Services 9-12 Months Debt Index,0.25,0.25,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF BSE Sensex,BSE Sensex TRI,0.02,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF BSE Sensex Next 50,BSE Sensex Next 50 TRI,0.04,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Gold BeES,Domestic Price of Gold,0.41,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Hang Seng BeES,Hang Seng TRI,0.11,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 100,Nifty 100 TRI,0.03,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 1D Rate Liquid BeES,Nifty 1D Rate Index,0.04,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 5 yr Benchmark G-Sec,Nifty 5 yr Benchmark G-Sec Index,0.11,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 50 BeES,Nifty 50 TRI,0.02,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 50 Shariah BeES,Nifty50 Shariah TRI,0.1,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 50 Value 20,Nifty50 Value20 TRI,0.1,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt,NIFTY 8-13 yr G-Sec Index,0.18,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty Bank BeES,Nifty Bank TRI,0.03,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty Dividend Opportunities 50,Nifty Dividend Opportunities 50 TRI,0.07,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty India Consumption,Nifty India Consumption TRI,0.03,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty Infrastructure BeES,Nifty Infrastructure TRI,0.05,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty IT,Nifty IT TRI,0.07,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty Midcap 150,Nifty Midcap 150 TRI,0.15,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty Next 50 Junior BeES,Nifty Next 50 TRI,0.07,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India ETF Nifty PSU Bank BeES,Nifty PSU Bank TRI,0.08,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Index Fund - BSE Sensex Plan,BSE Sensex TRI,0.03,0.03,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Index Fund - Nifty 50 Plan,Nifty 50 TRI,0.03,0.03,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 1D Rate Liquid ETF- Growth,Nifty 1D Rate Index,0.02,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 50 Value 20 Index Fund,Nifty 50 Value 20 TRI,0.13,0.12,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 500 Equal Weight Index Fund,Nifty 500 Equal Weight TRI,0.1,0.09,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 500 Low Volatility 50 Index Fund,Nifty500 Low Volatility 50 TRI,0.16,0.16,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 500 Momentum 50 Index Fund,Nifty 500 Momentum 50 TRI,0.35,0.35,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty 500 Quality 50 Index Fund,Nifty500 Quality 50 TRI,0.57,0.57,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund,Nifty AAA CPSE Bond Plus SDL Apr 2027 60:40 Index,0.25,0.25,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Alpha Low Volatility 30 Index Fund,Nifty Alpha Low Volatility 30 TRI,0.2,0.2,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Auto ETF,Nifty Auto TRI,0.05,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Auto Index Fund,Nifty Auto TRI,0.18,0.18,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Bank Index Fund,Nifty Bank TRI,0.07,0.06,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund,Nifty G-Sec Jun 2036 Index,1.24,1.24,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund,Nifty G-Sec Oct 2028 Index,0.78,0.78,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty G-Sec Sep 2027 Maturity Index Fund,Nifty G-Sec Sep 2027 Index,0.36,0.36,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty India Manufacturing ETF,Nifty India Manufacturing TRI,0.05,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty India Manufacturing Index Fund,Nifty India Manufacturing TRI,0.09,0.08,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty IT Index Fund,Nifty IT TRI,0.13,0.12,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.16,0.16,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Pharma ETF,Nifty Pharma TRI,0.02,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Realty Index Fund,Nifty Realty TRI,0.14,0.14,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund,Nifty SDL Plus G-Sec Jun 2028 70:30 Index,0.9,0.9,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund,Nifty SDL Plus G-Sec Jun 2029 70:30 Index,1.12,1.12,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Nifty Smallcap 250 Index Fund,Nifty Smallcap 250 TRI,0.12,0.11,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Nippon India Silver ETF,Domestic price of Silver (based on LBMA Silver daily spot fixing price),0.79,,21,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund,CRISIL IBX Gilt Index - April 2028,0.31,0.31,58,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+quant Silver ETF,Physical Price of Silver,0,0.83,13,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Quantum Gold ETF,Domestic Price of Gold,,0.3,41,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Quantum Nifty 50 ETF,Nifty 50 TRI,,0.07,41,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE 100 ETF,BSE 100 TRI,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE PSU Bank ETF,BSE PSU BANK (TR),0.09,0.09,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE PSU Bank Index Fund,BSE PSU BANK (TR),0.14,0.14,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE Sensex ETF,BSE SENSEX (TR),0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE Sensex Index Fund,BSE SENSEX (TR),0.06,0.06,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI BSE Sensex Next 50 ETF,BSE SENSEX NEXT 50 (TR),0.03,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,Nifty CPSE Bond Plus SDL Sep 2026 50:50 Index,0.21,0.21,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI CRISIL IBX Gilt Index - April 2029 Fund,CRISIL IBX Gilt Index - April 2029,0.81,0.81,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI CRISIL IBX Gilt Index - June 2036 Fund,CRISIL IBX Gilt Index - June 2036,1.49,1.49,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI CRISIL IBX SDL Index - September 2027 Fund,CRISIL IBX SDL Index - September 2027,0.52,0.52,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Gold ETF,GOLD,0.44,0.44,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 10 yr Benchmark G-Sec ETF,NIFTY 10 YR BENCHMARK G-SEC,0.04,0.04,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 1D Rate Liquid ETF - Growth,Nifty 1D Rate Index,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 1D Rate Liquid ETF - IDCW,Nifty 1D Rate Index,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 200 Quality 30 ETF,NIFTY200 QUALITY 30,0.05,0.05,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 50 ETF,NIFTY 50,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty 500 Index Fund,Nifty 500,0.04,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Bank ETF,NIFTY BANK,0.03,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Bank Index Fund,NIFTY BANK,0.12,0.12,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Consumption ETF,NIFTY INDIA CONSUMPTION,0.03,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI NIFTY INDEX FUND,NIFTY 50,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty India Consumption Index Fund,NIFTY INDIA CONSUMPTION,0.04,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty IT ETF,NIFTY IT,0.07,0.07,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty IT Index Fund,NIFTY IT,0.12,0.12,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Midcap 150 Index Fund,NIFTY MIDCAP 150,0.05,0.04,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Next 50 ETF,NIFTY NEXT 50,0.05,0.05,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Next 50 Index Fund,NIFTY NEXT 50,0.05,0.05,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Private Bank ETF,NIFTY PRIVATE BANK,0.02,0.02,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty Smallcap 250 Index Fund,NIFTY SMALLCAP 250,0.12,0.12,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty100 Low Volatility 30 Index Fund,NIFTY100 LOW VOLATILITY 30,0.05,0.05,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty200 Momentum 30 Index Fund,NIFTY200 MOMENTUM 30,0.26,0.25,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty200 Quality 30 Index Fund,NIFTY200 QUALITY 30,0.06,0.05,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty50 Equal Weight ETF,NIFTY50 EQUAL WEIGHT,0.03,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Nifty50 Equal Weight Index Fund,NIFTY50 EQUAL WEIGHT,0.05,0.03,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+SBI Silver ETF,SILVER,0.95,0.95,22,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Shriram Nifty 1D Rate Liquid ETF,NIFTY 1D Rate Index,,0,67,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund),Nifty 100 Equal Weighted TRI,0.39,0.39,33,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata BSE Multicap Consumption 50:30:20 Index Fund,BSE Multicap Consumption 50:30:20 Index TRI,0.29,0.29,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata BSE Quality Index Fund,BSE Quality Index (TRI),0.82,0.82,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata BSE Select Business Groups Index Fund,BSE Select Business Groups Index (TRI),0.12,0.12,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata BSE Sensex Index Fund,BSE Sensex TRI,0.12,0.12,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,CRISIL-IBX Financial Services 3-6 Months Debt Index TRI,0.27,0.25,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Gold Exchange Traded Fund,Domestic Price of Gold,0.66,,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty 50 Exchange Traded Fund,Nifty 50 TRI,0.11,,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty 50 Index Fund,Nifty 50 TRI,0.1,0.1,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Auto Index fund,Nifty Auto TRI,0.14,0.13,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Capital Markets Index Fund,Nifty Capital Markets TRI,0.12,0.11,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Financial Services Index Fund,Nifty Financial Services TRI,0.09,0.09,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty G-Sec Dec 2026 Index Fund,Nifty G-Sec Dec 2026 Index (TRI),0.46,0.46,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty G-Sec Dec 2029 Index Fund,Nifty G-Sec Dec 2029 Index (TRI),1.1,1.1,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty India Digital Exchange Traded Fund,Nifty India Digital TRI,0.27,,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty India Tourism Index Fund,Nifty India Tourism TRI,0.09,0.09,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.14,0.13,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Midcap 150 Momentum 50 Index Fund,Nifty Midcap150 Momentum 50 TRI,0.27,0.26,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty MidSmall Healthcare Index Fund,Nifty MidSmall Healthcare TRI,0.06,0.05,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.17,0.15,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Private Bank Exchange Traded Fund,Nifty Private Bank TRI,0.16,,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty Realty Index Fund,Nifty Realty TRI,0.36,0.36,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Nifty SDL Plus AAA PSU Bond Dec 2027 60: 40 Index,0.8,0.8,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty200 Alpha 30 Index Fund,Nifty 200 Alpha 30 TRI,0.41,0.41,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund,Nifty500 Multicap India Manufacturing 50:30:20 TRI Index,0.08,0.07,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund,Nifty500 Multicap Infrastructure 50:30:20 TRI Index,0.12,0.12,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Tata Silver Exchange Traded Fund,Domestic price of Silver,1.35,,25,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Taurus Nifty 50 Index Fund,Nifty 50 Index,0.07,0.07,26,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+The Wealth Company Gold ETF,Domestic Price of Physical Gold,,2.29,83,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Union Gold ETF,Domestic Prices of Physical Gold,,0.78,61,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI - BSE Sensex Next 50 Exchange Traded Fund,BSE Sensex Next 50 TRI,0.03,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI - Gold Exchange Traded Fund,Price of Gold,0.29,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI - Nifty Next 50 Exchange Traded Fund,Nifty Next 50 TRI,0.06,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI - Nifty Next 50 Index Fund,Nifty Next 50 TRI,0.05,0.04,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE Housing Index Fund,BSE Housing TRI,0.09,0.09,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE INDIA SECTOR LEADERS EXCHANGE TRADED FUND,BSE India Sector Leaders TRI,0.03,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE India Sector Leaders Index Fund,BSE India Sector Leaders TRI,0.23,0.22,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE Low Volatility Index Fund,BSE Low Volatility TRI,0.47,0.47,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE Sensex ETF,BSE Sensex TRI,0.02,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI BSE Sensex Index Fund,BSE SENSEX TRI,0.03,0.03,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI CRISIL SDL Maturity April 2033 Index Fund,CRISIL IBX SDL Index ? Maturity April 2033,1.82,1.82,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI CRISIL SDL Maturity June 2027 Index Fund,CRISIL IBX SDL Index ? Maturity June 2027,0.39,0.39,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 10 yr Benchmark G-Sec ETF,Nifty 10 yr Benchmark G-Sec Index,0.14,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 1D Rate Liquid ETF - Growth,Nifty 1D Rate Index,0.03,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 200 Momentum 30 Index Fund,NIFTY 200 - MOMENTUM 30 TRI,0.16,0.16,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 200 Quality 30 Index Fund,Nifty200 Quality 30 TRI,0.07,0.06,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 5 yr Benchmark G-Sec ETF,Nifty 5 yr Benchmark G-Sec Index,0.14,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 50 ETF,Nifty 50 TRI,0.02,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 50 Index Fund,Nifty 50 TRI,0.02,0.02,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 500 Exchange Traded Fund,Nifty 500 TRI,0.03,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI NIFTY 500 INDEX FUND,Nifty 500 TRI,0.05,0.06,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty 500 Value 50 Index Fund,Nifty 500 Value 50 TRI,0.11,0.1,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Alpha Low-Volatility 30 Index Fund,Nifty Alpha Low-Volatility 30 TRI,0.13,0.13,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Bank ETF,Nifty Bank TRI,0.04,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty India Manufacturing Index Fund,Nifty India Manufacturing TRI,0.09,0.09,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty IT ETF,Nifty IT TRI,0.09,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Midcap 150 Exchange Traded Fund,Nifty Midcap 150 Quality 50 TRI,0.05,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Midcap 150 Index Fund,Nifty Midcap 150 TRI,0.05,0.04,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Midcap 150 Quality 50 Index Fund,Nifty Midcap 150 Quality 50 TRI,0.08,0.08,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund,Nifty Midsmallcap 400 Momentum Quality 100 TRI,0.08,0.07,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty Private Bank Index Fund,Nifty Private Bank TRI,0.05,0.04,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI NIFTY SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund,Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index,0.17,0.17,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund,Nifty SDL Plus AAA PSU Bond Apr 2028 75:25 Index,1.14,1.15,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty50 Equal Weight Index Fund,Nifty50 Equal Weight TRI,0.04,0.03,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Nifty500 Shariah Index Fund,Nifty500 Shariah Index TRI,0.08,0.08,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+UTI Silver Exchange Traded Fund,Domestic Price of silver,0.87,0,28,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha BSE SENSEX Index Fund,BSE SENSEX Index (TRI),,0.16,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund,Nifty Large Midcap 250 Index TRI,,0.05,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Gold ETF,Domestic Price of Physical Gold,,0.58,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty 100 ETF,Nifty 100 Index TRI,,0.04,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty 1D Rate Liquid ETF,Nifty 1D Rate Index,,0.01,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty 50 ETF,Nifty 50 Index TRI,,0.16,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty 50 Index Fund,Nifty 50 Index TRI,,0.16,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty 8-13 Yr G-Sec ETF,Nifty 8-13 Yr G-Sec TRI,,0.19,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty LargeMidcap 250 Index Fund,Nifty Large Midcap 250 Index TRI,,0.04,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index Fund,Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index TRI,,0.28,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty Midcap 150 ETF,Nifty Midcap 150 Index TRI,,0.09,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty MidSmallcap400 50:50 Index Fund,Nifty MidSmallcap400 50:50 Index TRI,,0.31,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty Short Duration G-Sec Index Fund,Nifty Short Duration G-Sec Index TRI,,0.72,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Nifty Smallcap 100 ETF,Nifty Smallcap 100 TRI,,0.31,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
+Zerodha Silver ETF,Domestic prices of physical Silver,,1.34,77,30-Sep-2026,https://www.amfiindia.com/api/tracking-error,30-Sep-2026
