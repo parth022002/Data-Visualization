@@ -9,27 +9,20 @@ The portfolio tracks India's vast renewable resource potential across states, co
 
 ## Interactive Dashboard Suite
 
-### 1. Executive Story: Powering India’s Future
-![Powering India's Future](Screenshots/01-powering-indias-future-dashboard.png)
-
-*High-level narrative dashboard establishing the national energy transition mandate, contrasting fossil fuel reserves against massive solar/wind endowments.*
-
-### 2. Operational Landscape: India’s Renewable Footprint & AGEL Today
-![India's Renewable Landscape](Screenshots/02-indias-renewable-landscape-dashboard.png)
+### 1. Operational Landscape: India’s Renewable Footprint & AGEL Today
+![India's Renewable Landscape](Screenshots/01-india-renewable-landscape-dashboard.png)
 
 *Geographic and capacity breakdown of operating assets across key renewable corridors in Rajasthan, Gujarat, Tamil Nadu, Karnataka, and Andhra Pradesh.*
 
-### 3. Strategic Outlook: AGEL 2030 Vision & Growth Drivers
-![AGEL 2030 Vision](Screenshots/03-agel-2030-vision-forecast-dashboard.png)
+### 2. Strategic Outlook: AGEL 2030 Vision & Growth Drivers
+![AGEL 2030 Vision](Screenshots/02-agel-2030-vision-forecast-dashboard.png)
 
-*Econometric forecast modeling capacity scaling from ~10 GW towards the 45 GW / 50 GW 2030 corporate milestone, highlighting revenue growth, corporate tax incentives, and decarbonization metrics.*
+*Econometric forecast modeling capacity scaling towards the 2030 milestone, highlighting revenue growth, capacity utilization, and decarbonization metrics.*
 
-### 4. Analytical Views & Presentation Evidence
-| Renewable Potential Map | Historical Growth Velocity |
+### 3. Analytical Views & Presentation Evidence
+| Renewable Potential Map | Solar vs. Wind Technology Mix |
 | :---: | :---: |
-| ![Renewable Potential](Screenshots/Screenshot%202025-11-27%20163058.png) | ![Growth Velocity](Screenshots/Screenshot%202025-11-27%20163111.png) |
-| **Solar vs. Wind Technology Mix** | **Revenue & Generation Correlation** |
-| ![Technology Mix](Screenshots/Screenshot%202025-11-27%20163121.png) | ![Revenue Correlation](Screenshots/Screenshot%202025-11-27%20163130.png) |
+| ![Renewable Potential](Screenshots/03-state-renewable-potential-endowments.png) | ![Technology Mix](Screenshots/04-technology-mix-solar-wind-hybrid.png) |
 
 ---
 

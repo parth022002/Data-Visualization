@@ -66,18 +66,13 @@ An enterprise-grade commercial analytics suite delivering real-time revenue visi
 
 ### Dashboard Visualizations
 
-#### Executive Sales Cockpit
+#### Executive Sales Overview Cockpit
 ![Executive Sales Overview Dashboard](Projects/Project-02-Sales-Customer-Insights/Screenshots/01-executive-sales-overview-dashboard.png)
-*Executive sales overview highlighting gross revenue ($2.3M+), net operating profit ($286K+), profit margins (12.4%), YoY performance, and regional sales distribution.*
+*High-resolution commercial cockpit tracking revenue ($2.3M+), operating profit ($286K+), profit margins (12.4%), YoY performance, and regional sales distribution.*
 
-#### Customer Analytics & Lifetime Value
+#### Customer Lifetime Value & Account Analytics
 ![Customer Analytics Dashboard](Projects/Project-02-Sales-Customer-Insights/Screenshots/02-customer-analytics-dashboard.png)
 *Customer intelligence view segmenting client accounts by purchase frequency, order recency, historical spend volume, and margin contribution.*
-
-#### UI Wireframing & Interactive Navigation
-| Custom Grid Layout Wireframe | Collapsible Filter Navigation Menu |
-| :---: | :---: |
-| ![Dashboard Wireframe](Projects/Project-02-Sales-Customer-Insights/Screenshots/03-dashboard-wireframe-and-grid-layout.png) | ![Filter Menu](Projects/Project-02-Sales-Customer-Insights/Screenshots/04-filter-menu-and-interactive-navigation.png) |
 
 ---
 
@@ -128,18 +123,18 @@ An interactive Tableau visual narrative analyzing India's transition toward clea
 
 ### Dashboard Visualizations
 
-#### Executive Transition Story: Powering India's Future
-![Powering India's Future](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/01-powering-indias-future-dashboard.png)
-*High-level narrative dashboard establishing national clean power targets, comparing fossil fuel baselines against solar and wind endowments.*
-
-#### India's Renewable Landscape & Operational Footprint
-![India's Renewable Landscape](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/02-indias-renewable-landscape-dashboard.png)
+#### Operational Landscape: India’s Renewable Footprint & AGEL Today
+![India's Renewable Landscape](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/01-india-renewable-landscape-dashboard.png)
 *Geographic asset distribution mapping operational wind, solar, and hybrid installations across western and southern energy corridors.*
 
-#### Technology Mix & Capacity Growth Velocity
+#### Strategic Outlook: AGEL 2030 Vision & Growth Drivers
+![AGEL 2030 Vision](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/02-agel-2030-vision-forecast-dashboard.png)
+*Econometric forecast modeling capacity scaling towards long-term milestones, highlighting revenue trajectories and decarbonization impact.*
+
+#### Resource Potential & Technology Mix
 | Renewable Potential Endowment | Solar vs. Wind Technology Mix |
 | :---: | :---: |
-| ![Renewable Potential](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/Screenshot%202025-11-27%20163058.png) | ![Technology Mix](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/Screenshot%202025-11-27%20163121.png) |
+| ![Renewable Potential](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/03-state-renewable-potential-endowments.png) | ![Technology Mix](Projects/Project-04-Adani-Green-Energy-Transition/Screenshots/04-technology-mix-solar-wind-hybrid.png) |
 
 ---
 
@@ -190,17 +185,15 @@ An architectural reference gallery and visual catalog designed for visualization
 - **Dynamic Parameter Actions:** Interactive metric swappers, reference band threshold adjustments, and scenario sensitivity modeling.
 - **Container Engineering:** Nested horizontal and vertical layout container hierarchies with zero-padding borders and responsive layout sizing.
 
-### Architectural Visualizations
-
-#### Visual Catalog Architecture & Chart Selection Framework
-| Visual Catalog Architecture | Chart Selection Framework |
-| :---: | :---: |
-| ![Visual Architecture](Projects/Project-06-Visual-Analytics-Gallery/Screenshots/chart-catalog-01.jpg) | ![Chart Selection](Projects/Project-06-Visual-Analytics-Gallery/Screenshots/slide-visual-01.jpg) |
-
-#### Data Modeling & Calculation Pipeline
-| Relational Data Modeling Foundations | Tableau Calculation Pipeline Hierarchy |
-| :---: | :---: |
-| ![Data Modeling](Projects/Project-06-Visual-Analytics-Gallery/Screenshots/slide-visual-02.jpg) | ![Calculation Hierarchy](Projects/Project-06-Visual-Analytics-Gallery/Screenshots/slide-visual-04.jpg) |
+#### Specialized Analytical Workbooks
+| Workbook | Primary Calculation Architecture |
+| :--- | :--- |
+| `LOD Expressions.twbx` | `FIXED`, `INCLUDE`, and `EXCLUDE` cohort modeling |
+| `Table Calculations.twbx` | Addressing, partitioning, running sums, moving windows |
+| `Aggregate Calculations.twbx` | Aggregation constraints, `ATTR()`, `ZN()` null handling |
+| `Parameters.twbx` | Dynamic metric switching, reference bands, sensitivity models |
+| `Actions.twbx` | Cross-dashboard filter actions, parameter actions, URL targets |
+| `Filtering Data.twbx` | Tableau order of operations, context filters, top-N |
 
 ---
 
